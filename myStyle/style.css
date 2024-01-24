@@ -46,7 +46,7 @@ body{
     display: flex;
  
  height: 100vh;
- border: 1px solid green;
+
     align-content: center;
     z-index: 1;
     position: absolute;
